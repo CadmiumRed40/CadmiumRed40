@@ -1,6 +1,6 @@
-Interested in painting and programming I guess.
-Currently learning fullstack web development
-I’m looking to collaborate on nothing for now. I dont even have my bearings yet
+-Interested in painting and programming I guess.
+-Currently learning fullstack web development
+-I’m looking to collaborate on nothing for now. I dont even have my bearings yet
 - 📫 Reach me on discord @ CadmiumRed#3288
 
 <!---
