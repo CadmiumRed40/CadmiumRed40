@@ -1,7 +1,7 @@
 =<h1 align="center">Hi, I'm Enrique!</h1>
-<h3 align="center">A software engineer from the North East, USA.</h3>
+<h3 align="center">A Software Engineer from the North East, USA.</h3>
 
-- 🔭 I’m currently working on **Roast.me**
+- 🔭 I’m currently working on **Roast.me**. An app that lets users tell jokes about each other.
 
 - 🌱 I’m currently learning **React, Python, Node.js**
 
