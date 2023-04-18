@@ -1,9 +1,9 @@
 =<h1 align="center">Hi, I'm Enrique!</h1>
 <h3 align="center">A Software Engineer from the North East, USA.</h3>
 
-- 🔭 I’m currently working on **Roast.me**. An app that lets users tell jokes about each other.
+- 🔭 I’m currently working on **My Portfolio** using React.
 
-- 🌱 I’m currently learning **React, Python, Node.js**
+- 🌱 I’m currently learning **Python**
 
 - 📫 You can reach me at: **Cabrera.Enrique@protonmail.com**
 
