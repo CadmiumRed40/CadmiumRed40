@@ -1,9 +1,11 @@
-=<h1 align="center">Hi, I'm Enrique!</h1>
+=<h1 align="center">Hello, my name is Enrique!</h1>
 <h3 align="center">A Software Engineer from the North East, USA.</h3>
 
 - 🔭 I’m currently working on **My Portfolio** using React.
 
 - 🌱 I’m currently learning **Python**
+
+- Deep interest in AI prompting and intergration.
 
 - 📫 You can reach me at: **cabrerawebdev@gmail.com**
 
