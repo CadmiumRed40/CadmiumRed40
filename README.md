@@ -5,11 +5,11 @@
 
 - 🌱 I’m currently learning **Python**
 
-- Deep interest in AI prompting and intergration.
+- Deep interest in IT, Networking and Cloud technology.
 
 - 📫 You can reach me at: **cabrerawebdev@gmail.com**
 
-- ⚡ Fun fact **I love art and reading. Let me paint your portrait too!**
+- ⚡ Fun fact **I love Art and Reading. Let me paint your portrait too!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
